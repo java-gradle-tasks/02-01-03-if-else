@@ -1,7 +1,6 @@
 public class MyGrade {
 
 	public static boolean isGrade(int grade) {
-		}
 	}
 
 	public static void main(final String[] args) {
